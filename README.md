@@ -1,5 +1,10 @@
 ## Hi, I'm Gargi!👋
+
 Portfolio page under construction ;)
+Here are some links in the mean time!
+* LinkedIn: https://www.linkedin.com/in/gargikalla/
+* Repl.it: https://replit.com/@gkalla
+
 <!--
 Here are some ideas to get you started:
 
